@@ -1,4 +1,8 @@
 == README
+
+This is my final project for my time at Dev Bootcamp NYC, completed in the time limit of 8 days.  It utilizes a Ruby on Rails backend, MVC JavaScript frontend, bootstrap for CSS, and OmniAuth/Yelp API's.  The database is currently seeded with local NYC restaurants pulled from the Yelp API.  Below is a brief introduction into my OKLunch app.
+
+
 Hello and welcome to OKLunch.  Have you ever wanted to go eat somewhere but didn't want to go alone?  Whether it's because you didn't want to look like you have no friends, or because you just wanted to have lunch with a stranger, fret no longer, OKLunch is here to provide the solution.  There are 4 simples steps: 
  1) Login via Facebook Sign in
      2) Swipe right on Restaurants you're interested in
@@ -6,3 +10,5 @@ Hello and welcome to OKLunch.  Have you ever wanted to go eat somewhere but didn
               4) Get your food on
 
 Enjoy!
+
+
